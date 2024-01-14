@@ -1,0 +1,7 @@
+{
+  "name": "biabog",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
