@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dummybiabog": {
+      "hosting": {
+        "app": [
+          "dummybiabog"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dummybiabog"
+  }
+}
